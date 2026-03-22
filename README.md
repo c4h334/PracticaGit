@@ -5,3 +5,6 @@ Tercer cambio
 
 **Escenario 3**
 Cambio en archivo main 1
+
+**Escenario 5**
+Cambio en archivo feature/header
